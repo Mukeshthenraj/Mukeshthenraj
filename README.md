@@ -1,9 +1,9 @@
 ## Hi there 👋
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Mukeshthenraj&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Mukeshthenraj?label=Followers&style=social)
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?logo=mathworks)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
 
 # Welcome to My GitHub Profile!
 
