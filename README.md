@@ -16,7 +16,6 @@
 - 🎓 Master's in Automation & Safety – University of Duisburg-Essen  
 - 🤖 Focused on Machine Learning, Control Systems, and Data Analysis  
 - 🧠 Passionate about AI-powered predictive control and real-time simulations  
-- 🌍 Currently seeking opportunities in ML, Control Systems, or Embedded AI
 
 ---
 
@@ -39,6 +38,12 @@
 - **Frameworks & Libraries:** OpenCV, SciPy, Pandas, NumPy, Seaborn, Matplotlib, TensorFlow, PyTorch, Scikit-learn  
 - **Tools:** Git, GitHub, Docker, Kubernetes, Jenkins, VS Code, Power BI, Jupyter Notebook  
 - **Specialties:** Control Systems, Predictive Modeling, Real-time Data Processing, Visualization
+
+---
+## 📫 How to Reach Me
+
+- 📧 Email: mukesh.thenraj@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/mukeshthenraj](https://linkedin.com/in/mukeshthenraj)
 
 ---
 
