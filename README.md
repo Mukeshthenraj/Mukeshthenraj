@@ -15,3 +15,11 @@
 - **[Project 2: Enhanced Application of Neural Network-Based Structured Model Predictive Control](https://github.com/Mukeshthenraj/Neural-network-based-structured-model-predictive-control-on-a-mass-spring-damper-plane)**
   - Description: This project demonstrates the application of neural networks, including LSTM and GRU models, for structured model predictive control on a mass-spring-damper system.
 
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++, Python, ROS2, MATLAB/Simulink, SQL  
+- **Libraries/Frameworks:** OpenCV, SciPy, Pandas, NumPy, Matplotlib, Power BI, Seaborn, TensorFlow, PyTorch, SKLearn   
+- **Tools:** Git, GitHub, Jenkins, Docker, Kubernetes, Jupyter Notebook, VS Code  
+- **Specialization:** Data Visualization, Predictive Modeling, Control Systems
