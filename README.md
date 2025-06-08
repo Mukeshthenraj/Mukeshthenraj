@@ -42,7 +42,7 @@
 ---
 ## 📫 How to Reach Me
 
-- 📧 Email: mukesh.thenraj@gmail.com  
+- 📧 Email: mukeshthenraj@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/mukeshthenraj](https://linkedin.com/in/mukeshthenraj)
 
 ---
